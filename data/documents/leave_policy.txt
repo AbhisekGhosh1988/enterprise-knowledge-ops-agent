@@ -1,0 +1,22 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL COMPANY POLICY
+
+Document Title: Company Leave Policy
+Document ID: DEMO-POL-002
+
+1. Purpose
+This synthetic document is created only to test cross-document retrieval and reasoning.
+
+2. Annual Leave
+Employees may request annual leave through the designated leave process.
+
+3. Approval
+Leave requests require manager approval before the leave begins.
+
+4. Notice
+Employees should submit planned annual leave requests in advance whenever practical.
+
+5. Emergency Leave
+For an unexpected absence, the employee should notify the manager as soon as reasonably possible.
+
+6. Exceptions
+Exceptions to the standard leave process require manager approval.

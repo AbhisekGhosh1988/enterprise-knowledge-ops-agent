@@ -1,0 +1,22 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL EMPLOYEE HANDBOOK
+
+Document Title: Employee Handbook
+Document ID: DEMO-HB-001
+
+1. Purpose
+This synthetic document is created only to test multi-document reasoning.
+
+2. Manager Approval
+Manager approval is required for requests that are explicitly identified as requiring approval in the applicable company policy.
+
+3. Working Arrangements
+Employees are expected to follow the applicable policy for their working arrangement.
+
+4. Leave
+Employees should follow the leave policy when requesting or taking leave.
+
+5. Policy Conflicts
+If an employee believes two policy requirements conflict, the employee should seek clarification from the manager before proceeding.
+
+6. Documentation
+Employees should retain relevant approval or request information according to the applicable process.

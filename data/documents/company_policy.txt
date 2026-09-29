@@ -1,0 +1,22 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL COMPANY POLICY
+
+Document Title: Company Remote Work Policy
+Document ID: DEMO-POL-001
+
+1. Purpose
+This synthetic document is created only to test the Enterprise Knowledge Operations Agent.
+
+2. Remote Work
+Employees may work remotely when their manager approves the arrangement.
+
+3. Approval
+Remote work approval must be obtained before the remote work period begins.
+
+4. Equipment
+Company-provided equipment must be used for company work when such equipment has been issued to the employee.
+
+5. Security
+Employees working remotely must follow the organization's applicable information-security requirements.
+
+6. Exceptions
+Any exception to this policy requires approval from the employee's manager.
